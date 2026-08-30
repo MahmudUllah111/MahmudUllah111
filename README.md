@@ -1,17 +1,9 @@
 <h2>👨‍💻 About Me</h2>
 
-<p>
-I'm a Computer Science undergraduate at Independent University, Bangladesh and a Full-Stack Developer passionate about building scalable web applications, mobile apps, and database-driven systems.
-</p>
+Hey, I'm Mahmud 👋  
+A Computer Science undergraduate at Independent University, Bangladesh and a Full-Stack Developer passionate about building scalable web applications, mobile apps, and database-driven systems.
 
-<p>
-I work with modern technologies including React, Next.js, TypeScript, Node.js, Flutter, and MySQL, focusing on clean architecture, intuitive UI/UX, and practical solutions.
-</p>
-
-<p>
-Open to collaboration, software engineering opportunities, and building impactful technology solutions.
-</p>
-
+I enjoy creating clean, user-focused applications and continuously improving my skills in software engineering, system design, and problem-solving.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmudullahshuharto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudullah-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudsets@gmail.com) 
