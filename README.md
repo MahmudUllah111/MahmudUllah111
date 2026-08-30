@@ -1,9 +1,16 @@
-# 💫 About Me:
-🎓 CS undergraduate at Independent University, Bangladesh.<br>
-💻 Full-Stack Developer building scalable web applications, mobile apps, and database-driven systems.<br>
-⚙️ Skilled in Next.js, React, TypeScript, Node.js, Flutter, MySQL, and modern development tools.<br>
-🚀 Passionate about clean architecture, intuitive UI/UX, and impactful software solutions.<br>
-🤝 Open to collaboration and software engineering opportunities.
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm a Computer Science undergraduate at Independent University, Bangladesh and a Full-Stack Developer passionate about building scalable web applications, mobile apps, and database-driven systems.
+</p>
+
+<p>
+I work with modern technologies including React, Next.js, TypeScript, Node.js, Flutter, and MySQL, focusing on clean architecture, intuitive UI/UX, and practical solutions.
+</p>
+
+<p>
+Open to collaboration, software engineering opportunities, and building impactful technology solutions.
+</p>
 
 
 ## 🌐 Socials:
