@@ -2,9 +2,9 @@
 
 <h3>Hey, I'm Mahmud 👋</h3>
 
-I'm a <b>Full-Stack Developer</b> and Computer Science undergraduate at Independent University, Bangladesh, passionate about building scalable web applications, mobile apps, and database-driven systems.
+A Computer Science undergraduate at Independent University, Bangladesh and a <b>Full-Stack Developer</b> passionate about building scalable web applications, mobile apps, and database-driven systems.
 
-I enjoy creating clean, user-focused applications and continuously improving my skills in software engineering.
+I enjoy creating clean, user-focused applications while continuously improving my skills in software engineering.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmudullahshuharto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudullah-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudsets@gmail.com) 
