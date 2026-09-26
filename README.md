@@ -1,5 +1,3 @@
-<img src="https://github.com/MahmudUllah111.png" width="120" style="border-radius:50%;" alt="Mahmud's avatar"/>
-
 ## About Me
 
 ### Hey, I'm Mahmud 👋
@@ -40,9 +38,9 @@ I enjoy creating clean, user-focused applications while continuously improving m
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MahmudUllah111&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MahmudUllah111&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MahmudUllah111&theme=github-dark-blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudUllah111&theme=github_dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudUllah111&theme=github_dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)
 ---
 [![](https://komarev.com/ghpvc/?username=MahmudUllah111&icon=0)](https://visitcount.itsvg.in)
 
