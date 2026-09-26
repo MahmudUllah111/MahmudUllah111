@@ -1,8 +1,8 @@
-<h2>About Me</h2>
+## About Me
 
-<h3>Hey, I'm Mahmud 👋</h3>
+### Hey, I'm Mahmud 👋
 
-A Computer Science undergraduate at Independent University, Bangladesh and a <b>Full-Stack Developer</b> passionate about building scalable web applications, mobile apps, and database-driven systems.
+A Computer Science undergraduate at Independent University, Bangladesh and a **Full-Stack Developer** passionate about building scalable web applications, mobile apps, and database-driven systems.
 
 I enjoy creating clean, user-focused applications while continuously improving my skills in software engineering.
 
@@ -36,10 +36,11 @@ I enjoy creating clean, user-focused applications while continuously improving m
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MahmudUllah111&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=MahmudUllah111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahmudUllah111&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MahmudUllah111&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MahmudUllah111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://komarev.com/ghpvc/?username=MahmudUllah111&icon=0&color=0)](https://visitcount.itsvg.in)
 
