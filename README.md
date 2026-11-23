@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Web+%26+Mobile+Developer;CS+Undergrad+%40+Independent+University%2C+Bangladesh;Building+Scalable+Apps+%26+Clean+Interfaces;Member+%40+Data+and+Design+Lab" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Web+%26+Mobile+Developer;CS+Undergrad+%40+Independent+University%2C+Bangladesh;Building+Scalable+Apps+%26+Clean+Interfaces;Engineering+Modern+Database-Driven+Systems" alt="Typing Animation" />
 </div>
 
 <!-- Social Links -->
@@ -28,21 +28,30 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-161B22?style=flat-square&labelColor=0284C7" alt="Location"/>
   <img src="https://img.shields.io/badge/Education-B.Sc.%20in%20CS%20%40%20IUB-161B22?style=flat-square&labelColor=0284C7" alt="Education"/>
-  <img src="https://img.shields.io/badge/Lab-Data%20%26%20Design%20Lab-161B22?style=flat-square&labelColor=0284C7" alt="Lab"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20%26%20Mobile-161B22?style=flat-square&labelColor=0284C7" alt="Focus"/>
 </p>
 
 <br>
 
 ## 👨‍💻 About
 
-I'm a Computer Science undergraduate at **Independent University, Bangladesh** and a **Full-Stack Developer** focused on building scalable web applications, cross-platform mobile apps, and reliable database-driven systems. I care about clean architecture, responsive UI craft, and writing maintainable code that solves real-world problems.
+<p align="center">
+  <b>Full-Stack Developer</b> &amp; Computer Science student at <b>Independent University, Bangladesh</b><br>
+  crafting scalable web platforms, cross-platform mobile apps, and reliable database-driven systems.
+</p>
 
-- **Web Engineering:** Building full-stack applications with React, Next.js, TypeScript, Tailwind CSS, Node.js, and PHP.
-- **Mobile Development:** Creating smooth cross-platform mobile apps using Flutter and Dart.
-- **Data & Backend Systems:** Designing structured relational schemas and backends with PostgreSQL, MySQL, and Supabase.
-- **Hardware & Research:** Exploring embedded automation, robotics, and applied research with the **Data and Design Lab**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Engineering-React_%E2%80%A2_Next.js_%E2%80%A2_TS-161B22?style=for-the-badge&labelColor=0284C7" alt="Web Engineering"/>
+  <img src="https://img.shields.io/badge/Mobile_Apps-Flutter_%E2%80%A2_Dart-161B22?style=for-the-badge&labelColor=0284C7" alt="Mobile Apps"/>
+  <img src="https://img.shields.io/badge/Backend_Systems-Node.js_%E2%80%A2_PHP_%E2%80%A2_SQL-161B22?style=for-the-badge&labelColor=0284C7" alt="Backend Systems"/>
+  <img src="https://img.shields.io/badge/UI_Craft-Tailwind_%E2%80%A2_Figma-161B22?style=for-the-badge&labelColor=0284C7" alt="UI Craft"/>
+</p>
 
-> *"The science of today is the technology of tomorrow."* — Edward Teller
+<br>
+
+- 🔭 **Focus:** Scalable full-stack web applications, Flutter mobile development & structured relational databases
+- ⚙️ **Approach:** Clean architecture, responsive interfaces & practical software engineering
+- 💡 **Philosophy:** *"The science of today is the technology of tomorrow."* — Edward Teller
 
 <br>
 
@@ -60,11 +69,31 @@ I'm a Computer Science undergraduate at **Independent University, Bangladesh** a
 
 ## 🚀 Selected Work
 
-- **[Microprocessor Automated Weeding Robot](https://github.com/MahmudUllah111/Microprocessor_Automated_Weeding_Robot)** — Microprocessor-driven autonomous weeding system combining embedded logic with agricultural automation. `C++` `Embedded`
-- **[Model Thana Operations Simulator](https://github.com/MahmudUllah111/Simulating-operations-of-Model-Thana-such-as-Gulshan-Model-Thana)** — Object-oriented system simulating administrative workflows and operations for a Model Thana. `Java` `OOP`
-- **[AgroAnalytics](https://github.com/MahmudUllah111/CSC401_Project_AgroAnalytics)** — Database-driven agricultural analytics web application built for structured reporting and insights. `PHP` `MySQL`
-- **[Cursor Following Snake Animation](https://github.com/MahmudUllah111/Cursor_Following_Snake_Animation)** — Interactive browser-based motion animation tracking cursor trajectories smoothly in real time. `JavaScript` `Animation`
-- **[DLD Line Following Robot](https://github.com/MahmudUllah111/CSE204-DLD_Line_Following_Robot)** — Digital Logic Design hardware build implementing autonomous sensor-based path tracking. `Digital Logic` `Robotics`
+<div align="center">
+  <a href="https://github.com/MahmudUllah111/Microprocessor_Automated_Weeding_Robot">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MahmudUllah111&repo=Microprocessor_Automated_Weeding_Robot&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=8B949E&border_color=30363D&border_radius=8" alt="Microprocessor Automated Weeding Robot"/>
+  </a>
+  <a href="https://github.com/MahmudUllah111/Simulating-operations-of-Model-Thana-such-as-Gulshan-Model-Thana">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MahmudUllah111&repo=Simulating-operations-of-Model-Thana-such-as-Gulshan-Model-Thana&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=8B949E&border_color=30363D&border_radius=8" alt="Model Thana Operations Simulator"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MahmudUllah111/Cursor_Following_Snake_Animation">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MahmudUllah111&repo=Cursor_Following_Snake_Animation&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=8B949E&border_color=30363D&border_radius=8" alt="Cursor Following Snake Animation"/>
+  </a>
+  <a href="https://github.com/MahmudUllah111/CSE204-DLD_Line_Following_Robot">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MahmudUllah111&repo=CSE204-DLD_Line_Following_Robot&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=8B949E&border_color=30363D&border_radius=8" alt="DLD Line Following Robot"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/MahmudUllah111?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-%E2%86%92-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+  </a>
+</div>
 
 <br>
 
