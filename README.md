@@ -26,7 +26,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 <!-- Animated Multi-Line CLI Profile Readout -->
 <div align="center">
@@ -46,7 +46,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <p><sub><b>FRONTEND, MOBILE & DESIGN</b></sub></p>
@@ -58,7 +58,7 @@
 
 <br>
 
-## 🚀 Selected Work
+## Selected Work
 
 <div align="center">
   <a href="https://github.com/MahmudUllah111/Microprocessor_Automated_Weeding_Robot">
@@ -88,7 +88,7 @@
 
 <br>
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <div align="center">
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=MahmudUllah111&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Mahmud Ullah GitHub Stats" />
@@ -103,7 +103,7 @@
 
 <br>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 
 
@@ -113,7 +113,7 @@
 
 <br>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <!-- Subtle Glowing Horizon Divider -->
 <div align="center">
