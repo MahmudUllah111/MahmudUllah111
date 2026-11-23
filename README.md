@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0F2942,100:0284C7&height=180&section=header&text=A.F.M%20Mahmud%20Ullah&fontSize=42&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Database%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="A.F.M Mahmud Ullah Header"/>
 </div>
 
-<!-- Animated Typing Tagline -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Web+%26+Mobile+Developer;B.Sc.+in+Computer+Science+%40+IUB;Building+Scalable+Apps+%26+Clean+Interfaces;Engineering+Modern+Database-Driven+Systems" alt="Typing Animation" />
-</div>
-
 <!-- Social Bar -->
 <p align="center">
   <a href="https://linkedin.com/in/mahmudullah-dev">
@@ -24,22 +19,30 @@
   </a>
 </p>
 
+<!-- Subtle Glowing Horizon Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="85%" alt="Divider"/>
+</div>
+
 <br>
 
 ## 👨‍💻 About Me
 
-<img align="right" width="46%" src="https://github-readme-stats-fast.vercel.app/api?username=MahmudUllah111&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Mahmud Ullah GitHub Stats" />
+<!-- Animated Multi-Line CLI Profile Readout -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=350&color=38BDF8&center=false&vCenter=false&multiline=true&repeat=false&width=640&height=135&lines=%E2%9D%AF+whoami++%3A%3A++A.F.M+Mahmud+Ullah+%E2%80%94+Full-Stack+Developer;%E2%9D%AF+degree++%3A%3A++B.Sc.+in+Computer+Science+%40+IUB%2C+Dhaka;%E2%9D%AF+builds++%3A%3A++Scalable+Web+Apps+%C2%B7+Flutter+Mobile+%C2%B7+SQL+Systems;%E2%9D%AF+craft+++%3A%3A++Clean+Architecture+%C2%B7+Responsive+UI+%C2%B7+APIs;%E2%9D%AF+status++%3A%3A++Shipping+modern+software+%26+open+to+collaborations" alt="Animated Developer Terminal"/>
+</div>
 
-I'm **A.F.M Mahmud Ullah**, a **Full-Stack Developer** based in **Dhaka, Bangladesh**, focused on engineering scalable web platforms, cross-platform mobile apps, and reliable database-driven systems.
+<!-- Single-Row Core Focus Strip -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Apps-React_%E2%80%A2_Next.js_%E2%80%A2_TS-161B22?style=for-the-badge&labelColor=0284C7" alt="Web Apps"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter_%E2%80%A2_Dart-161B22?style=for-the-badge&labelColor=0284C7" alt="Mobile"/>
+  <img src="https://img.shields.io/badge/Backend-Node_%E2%80%A2_PHP_%E2%80%A2_SQL-161B22?style=for-the-badge&labelColor=0284C7" alt="Backend"/>
+</p>
 
-- 🎓 **Education:** B.Sc. in Computer Science — Independent University, Bangladesh
-- 🌐 **Web Engineering:** React, Next.js, TypeScript, Tailwind CSS, Node.js & PHP
-- 📱 **Mobile & Data:** Flutter, Dart, PostgreSQL, MySQL & Supabase
-- ⚡ **Craft:** Clean architecture, responsive interfaces & maintainable code
-
-> *"The science of today is the technology of tomorrow."* — Edward Teller
-
-<br clear="both"/>
+<p align="center">
+  <sub><i>"The science of today is the technology of tomorrow." — Edward Teller</i></sub>
+</p>
 
 <br>
 
@@ -88,40 +91,43 @@ I'm **A.F.M Mahmud Ullah**, a **Full-Stack Developer** based in **Dhaka, Banglad
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="195" src="https://streak-stats.demolab.com/?user=MahmudUllah111&background=161B22&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MahmudUllah111&layout=donut&langs_count=6&include_all_commits=true&count_private=true&bg_color=161B22&title_color=38BDF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Top Languages"/>
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=MahmudUllah111&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=161B22&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Mahmud Ullah GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MahmudUllah111&layout=donut&langs_count=6&include_all_commits=true&count_private=true&bg_color=161B22&title_color=38BDF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="64%" src="https://streak-stats.demolab.com/?user=MahmudUllah111&background=161B22&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 ## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mahmud_Ullah%E2%80%99s_Contribution_Graph-12--Month_Timeline_%26_Hourly_Velocity_(UTC%2B6)-161B22?style=for-the-badge&labelColor=0284C7" alt="Mahmud Ullah's Contribution Graph"/>
+</p>
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudUllah111&bg_color=161B22&color=E6EDF3&line=38BDF8&point=0EA5E9&area=false&hide_border=false&border_color=30363D&radius=12&custom_title=Mahmud%20Ullah%E2%80%99s%20Contribution%20Graph" alt="Mahmud Ullah's Contribution Graph"/>
+  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudUllah111&theme=github_dark" alt="Mahmud Ullah's Yearly Contribution Graph"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmudUllah111&theme=github_dark&utcOffset=6" alt="Mahmud Ullah's Productive Commit Hours"/>
 </div>
 
 <br>
 
 ## 📫 Let's Connect
 
-<p align="center">
-  Open to collaborating on full-stack web, mobile, and software engineering projects.<br>
-  Drop a message anytime at <a href="mailto:mahmudsets@gmail.com"><b>mahmudsets@gmail.com</b></a>.
-</p>
+<!-- Subtle Glowing Horizon Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="85%" alt="Divider"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahmudullah-dev">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahmudsets@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://facebook.com/mahmudullahshuharto">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+<br>
 
 <div align="center">
+  <p>Open to collaborating on full-stack web, mobile, and software engineering projects.<br>
+  Drop a message anytime at <a href="mailto:mahmudsets@gmail.com"><b>mahmudsets@gmail.com</b></a></p>
   <img src="https://komarev.com/ghpvc/?username=MahmudUllah111&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge" alt="Profile Views" />
 </div>
 
