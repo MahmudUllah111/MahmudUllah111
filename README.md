@@ -30,7 +30,7 @@
 
 <!-- Animated Multi-Line CLI Profile Readout -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=350&color=38BDF8&center=false&vCenter=false&multiline=true&repeat=false&width=640&height=135&lines=%E2%9D%AF+whoami++%3A%3A++A.F.M+Mahmud+Ullah+%E2%80%94+Full-Stack+Developer;%E2%9D%AF+degree++%3A%3A++B.Sc.+in+Computer+Science+%40+IUB%2C+Dhaka;%E2%9D%AF+builds++%3A%3A++Scalable+Web+Apps+%C2%B7+Flutter+Mobile+%C2%B7+SQL+Systems;%E2%9D%AF+craft+++%3A%3A++Clean+Architecture+%C2%B7+Responsive+UI+%C2%B7+APIs;%E2%9D%AF+status++%3A%3A++Shipping+modern+software+%26+open+to+collaborations" alt="Animated Developer Terminal"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=350&color=38BDF8&center=false&vCenter=false&multiline=true&repeat=false&width=640&height=135&lines=%E2%9D%AF+Who am I++%3A%3A++A.F.M+Mahmud+Ullah+%E2%80%94+Full-Stack+Developer;%E2%9D%AF+Degree++%3A%3A++B.Sc.+in+Computer+Science+%40+IUB%2C+Dhaka;%E2%9D%AF+Builds++%3A%3A++Scalable+Web+Apps+%C2%B7+Flutter+Mobile+%C2%B7+SQL+Systems;%E2%9D%AF+Craft+++%3A%3A++Clean+Architecture+%C2%B7+Responsive+UI+%C2%B7+APIs;%E2%9D%AF+Status++%3A%3A++Shipping+modern+software+%26+open+to+collaborations" alt="Animated Developer Terminal"/>
 </div>
 
 <!-- Single-Row Core Focus Strip -->
