@@ -105,13 +105,10 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mahmud_Ullah%E2%80%99s_Contribution_Graph-12--Month_Timeline_%26_Hourly_Velocity_(UTC%2B6)-161B22?style=for-the-badge&labelColor=0284C7" alt="Mahmud Ullah's Contribution Graph"/>
-</p>
+
 
 <div align="center">
-  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudUllah111&theme=github_dark" alt="Mahmud Ullah's Yearly Contribution Graph"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmudUllah111&theme=github_dark&utcOffset=6" alt="Mahmud Ullah's Productive Commit Hours"/>
+  <img width="95%" src="./profile-3d-contrib/profile-night-view.svg" alt="Mahmud Ullah's 3D Contribution Graph"/>
 </div>
 
 <br>
